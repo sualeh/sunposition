@@ -32,8 +32,8 @@ package us.fatehi;
 public final class Version
 {
 
-  private static final String PRODUCTNAME = "Sun Position Calculations"; //$NON-NLS-1$
-  private static final String VERSION = "4.0"; //$NON-NLS-1$
+  private static final String PRODUCTNAME = "Sun Position Calculations"; 
+  private static final String VERSION = "4.0"; 
 
   /**
    * Information about this product.
@@ -43,8 +43,8 @@ public final class Version
   public static String about()
   {
     final StringBuffer about = new StringBuffer();
-    about.append(getProductName()).append(" ").append(getVersion()) //$NON-NLS-1$
-      .append("\n").append("\u00A9 2007-2008 Sualeh Fatehi"); //$NON-NLS-1$ //$NON-NLS-2$
+    about.append(getProductName()).append(" ").append(getVersion()) 
+      .append("\n").append("\u00A9 2007-2014 Sualeh Fatehi");
     return new String(about);
   }
 
