@@ -1,5 +1,7 @@
 # Sun Position Calculations
 
+[![Build Status](https://travis-ci.org/sualeh/sunposition.svg?branch=master)](https://travis-ci.org/sualeh/sunposition)
+
 A Java calculation of sunrise, sunset and twilight. Validity is enforced by JUnit tests. Maven is needed for a build.
 
 ## Download
