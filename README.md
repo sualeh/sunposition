@@ -1,6 +1,7 @@
 # Sun Position Calculations
 
 [![Build Status](https://travis-ci.org/sualeh/sunposition.svg?branch=master)](https://travis-ci.org/sualeh/sunposition)
+[![Maven Central](https://img.shields.io/maven-central/v/us.fatehi/sunposition.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aus.fatehi%20sunposition)
 
 A Java calculation of sunrise, sunset and twilight. Validity is enforced by JUnit tests. Maven is needed for a build.
 
